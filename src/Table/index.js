@@ -25,8 +25,6 @@ class Table extends React.PureComponent {
   };
   maxTop = 0;
   $tbody = null;
-  // $right: RefObject<HTMLTableElement> = null
-  // $left: RefObject<HTMLTableElement> = null
   content = null;
   fixedLeft = false;
   fixedRight = false;
